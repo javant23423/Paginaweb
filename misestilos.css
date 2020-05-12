@@ -1,0 +1,25 @@
+﻿
+body { 
+color: blue; 
+background-color: #F2F5A9; 
+font-family: Georgia, "Times New Roman",
+          Times, serif;
+}
+h1 { color: purple }
+table {
+background-color: #FFFFFF;
+color: black;
+}
+ul {
+height: 90px;
+text-align: center;
+width: 200px;
+}
+ol {
+height: 140px;
+text-align: center;
+width: 500px;
+}
+
+
+	
