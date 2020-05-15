@@ -21,5 +21,7 @@ text-align: center;
 width: 500px;
 }
 
-
+IMG {
+	border-radius: 6px;
+}
 	
